@@ -1,6 +1,11 @@
 # Python Face Detection 🔍
 
 Face Detection written in Python with OpenCV 2024 💻
+Initial method is the classic haarcascades to detect faces. Tested against three types of images (real, AI generated, cartoon).
+![app_image](app_image.png)
+
+Output:
+Some detection in a real image, completely unable to detect anything in the AI generated image or the cartoon image.
 
 ## Requirements 📜
 
